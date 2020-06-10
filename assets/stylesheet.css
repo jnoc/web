@@ -1,0 +1,52 @@
+@media (max-width: 400px) {
+	.construction {
+		font-size: 1.2em; 
+	}
+}
+
+@media (min-width: 401px) {
+	.construction {
+		font-size: 1.5em;
+	}
+}
+
+@media (min-width: 550px) {
+	.construction {
+		font-size: 2.0em;
+	}
+}
+
+@media (min-width: 650px) {
+	.construction {
+		font-size: 2.5em;
+	}
+}
+
+.nowrap {
+	white-space: nowrap;
+}
+
+body {
+	position:absolute;
+	top: 20%;
+	left: 20%;
+	right: 10%;
+    text-align: left; 
+    font: 1em Helvetica, sans-serif; 
+    color: #333; 
+}
+
+a { 
+    color: #d67b04; 
+    text-decoration: none; 
+}
+
+a:hover { 
+    color: #333; 
+    text-decoration: none; 
+}
+
+.footer {
+	font-size: 0.7em;
+	font-style: italic;
+}
