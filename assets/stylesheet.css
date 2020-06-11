@@ -31,19 +31,22 @@ body {
 	top: 20%;
 	left: 20%;
 	right: 10%;
-    text-align: left; 
-    font: 1em Helvetica, sans-serif; 
-    color: #333; 
+    	text-align: left; 
+    	font: 1em Helvetica, sans-serif; 
+    	color: #333; 
+}
+.colour {
+	color: #d67b04; 
 }
 
 a { 
-    color: #d67b04; 
-    text-decoration: none; 
+	color: #d67b04; 
+	text-decoration: none; 
 }
 
 a:hover { 
-    color: #333; 
-    text-decoration: none; 
+	color: #333; 
+	text-decoration: none; 
 }
 
 .footer {
