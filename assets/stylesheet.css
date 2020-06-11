@@ -31,11 +31,12 @@ body {
 	top: 20%;
 	left: 20%;
 	right: 10%;
-    	text-align: left; 
-    	font: 1em Helvetica, sans-serif; 
-    	color: #333; 
+    text-align: left; 
+    font: 1em Helvetica, sans-serif; 
+    color: #333; 
 }
-.colour {
+
+.fa-cog {
 	color: #d67b04; 
 }
 
@@ -52,4 +53,9 @@ a:hover {
 .footer {
 	font-size: 0.7em;
 	font-style: italic;
+}
+
+.footer i {
+	vertical-align: middle;
+	padding: 0.5rem;
 }
